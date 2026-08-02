@@ -1,0 +1,91 @@
+Year,Tournament,Surface,Winner,Player_1,Player_2,Score,runner_up,era
+2003,Australian Open,Hard,Agassi A.,Schuettler R.,Agassi A.,2-6 2-6 1-6,Schuettler R.,Other
+2003,French Open,Clay,Ferrero J.C.,Verkerk M.,Ferrero J.C.,1-6 3-6 2-6,Verkerk M.,Other
+2003,Wimbledon,Grass,Roger Federer,Philippoussis M.,Federer R.,6-7 2-6 6-7,Philippoussis M.,Big Three
+2003,US Open,Hard,Roddick A.,Roddick A.,Ferrero J.C.,6-3 7-6 6-3,Ferrero J.C.,Other
+2004,Australian Open,Hard,Roger Federer,Federer R.,Safin M.,7-6 6-4 6-2,Safin M.,Big Three
+2004,French Open,Clay,Gaudio G.,Coria G.,Gaudio G.,6-0 6-3 4-6 1-6 6-8,Coria G.,Other
+2004,Wimbledon,Grass,Roger Federer,Federer R.,Roddick A.,4-6 7-5 7-6 6-4,Roddick A.,Big Three
+2004,US Open,Hard,Roger Federer,Federer R.,Hewitt L.,6-0 7-6 6-0,Hewitt L.,Big Three
+2005,Australian Open,Hard,Safin M.,Safin M.,Hewitt L.,1-6 6-3 6-4 6-4,Hewitt L.,Other
+2005,French Open,Clay,Rafael Nadal,Puerta M.,Nadal R.,7-6 3-6 1-6 5-7,Puerta M.,Big Three
+2005,Wimbledon,Grass,Roger Federer,Roddick A.,Federer R.,2-6 6-7 4-6,Roddick A.,Big Three
+2005,US Open,Hard,Roger Federer,Agassi A.,Federer R.,3-6 6-2 6-7 1-6,Agassi A.,Big Three
+2006,Australian Open,Hard,Roger Federer,Baghdatis M.,Federer R.,7-5 5-7 0-6 2-6,Baghdatis M.,Big Three
+2006,French Open,Clay,Rafael Nadal,Nadal R.,Federer R.,1-6 6-1 6-4 7-6,Roger Federer,Big Three
+2006,Wimbledon,Grass,Roger Federer,Nadal R.,Federer R.,0-6 6-7 7-6 3-6,Rafael Nadal,Big Three
+2006,US Open,Hard,Roger Federer,Roddick A.,Federer R.,2-6 6-4 5-7 1-6,Roddick A.,Big Three
+2007,Australian Open,Hard,Roger Federer,Federer R.,Gonzalez F.,7-6 6-4 6-4,Gonzalez F.,Big Three
+2007,French Open,Clay,Rafael Nadal,Federer R.,Nadal R.,3-6 6-4 3-6 4-6,Roger Federer,Big Three
+2007,Wimbledon,Grass,Roger Federer,Federer R.,Nadal R.,7-6 4-6 7-6 2-6 6-2,Rafael Nadal,Big Three
+2007,US Open,Hard,Roger Federer,Federer R.,Djokovic N.,7-6 7-6 6-4,Novak Djokovic,Big Three
+2008,Australian Open,Hard,Novak Djokovic,Tsonga J.W.,Djokovic N.,6-4 4-6 3-6 6-7,Tsonga J.W.,Big Three
+2008,French Open,Clay,Rafael Nadal,Federer R.,Nadal R.,1-6 3-6 0-6,Roger Federer,Big Three
+2008,Wimbledon,Grass,Rafael Nadal,Nadal R.,Federer R.,6-4 6-4 6-7 6-7 9-7,Roger Federer,Big Three
+2008,US Open,Hard,Roger Federer,Murray A.,Federer R.,2-6 6-7 2-6,Andy Murray,Big Three
+2009,Australian Open,Hard,Rafael Nadal,Nadal R.,Federer R.,7-5 3-6 7-6 3-6 6-2,Roger Federer,Big Three
+2009,French Open,Clay,Roger Federer,Soderling R.,Federer R.,1-6 6-7 4-6,Soderling R.,Big Three
+2009,Wimbledon,Grass,Roger Federer,Federer R.,Roddick A.,5-6 7-6 7-6 3-6 16-14,Roddick A.,Big Three
+2009,US Open,Hard,Del Potro J.M.,Del Potro J.M.,Federer R.,3-6 7-6 4-6 7-6 6-2,Roger Federer,Other
+2010,Australian Open,Hard,Roger Federer,Murray A.,Federer R.,3-6 4-6 6-7,Andy Murray,Big Three
+2010,French Open,Clay,Rafael Nadal,Nadal R.,Soderling R.,6-4 6-2 6-4,Soderling R.,Big Three
+2010,Wimbledon,Grass,Rafael Nadal,Berdych T.,Nadal R.,3-6 5-7 4-6,Berdych T.,Big Three
+2010,US Open,Hard,Rafael Nadal,Nadal R.,Djokovic N.,6-4 5-7 6-4 6-2,Novak Djokovic,Big Three
+2011,Australian Open,Hard,Novak Djokovic,Djokovic N.,Murray A.,6-4 6-2 6-3,Andy Murray,Big Three
+2011,French Open,Clay,Rafael Nadal,Nadal R.,Federer R.,7-5 7-6 5-7 6-1,Roger Federer,Big Three
+2011,Wimbledon,Grass,Novak Djokovic,Djokovic N.,Nadal R.,6-4 6-1 1-6 6-3,Rafael Nadal,Big Three
+2011,US Open,Hard,Novak Djokovic,Nadal R.,Djokovic N.,2-6 4-6 7-6 1-6,Rafael Nadal,Big Three
+2012,Australian Open,Hard,Novak Djokovic,Nadal R.,Djokovic N.,7-5 4-6 2-6 7-6 5-7,Rafael Nadal,Big Three
+2012,French Open,Clay,Rafael Nadal,Djokovic N.,Nadal R.,4-6 3-6 6-2 5-7,Novak Djokovic,Big Three
+2012,Wimbledon,Grass,Roger Federer,Federer R.,Murray A.,4-6 7-5 6-3 6-4,Andy Murray,Big Three
+2012,US Open,Hard,Andy Murray,Murray A.,Djokovic N.,7-6 7-5 2-6 3-6 6-2,Novak Djokovic,Other
+2013,Australian Open,Hard,Novak Djokovic,Murray A.,Djokovic N.,7-6 6-7 3-6 2-6,Andy Murray,Big Three
+2013,French Open,Clay,Rafael Nadal,Nadal R.,Ferrer D.,6-3 6-2 6-3,Ferrer D.,Big Three
+2013,Wimbledon,Grass,Andy Murray,Murray A.,Djokovic N.,6-4 7-5 6-4,Novak Djokovic,Other
+2013,US Open,Hard,Rafael Nadal,Djokovic N.,Nadal R.,2-6 6-3 4-6 1-6,Novak Djokovic,Big Three
+2014,Australian Open,Hard,Stan Wawrinka,Nadal R.,Wawrinka S.,3-6 2-6 6-3 3-6,Rafael Nadal,Other
+2014,French Open,Clay,Rafael Nadal,Nadal R.,Djokovic N.,3-6 7-5 6-2 6-4,Novak Djokovic,Big Three
+2014,Wimbledon,Grass,Novak Djokovic,Federer R.,Djokovic N.,7-6 4-6 6-7 7-5 4-6,Roger Federer,Big Three
+2014,US Open,Hard,Marin Cilic,Nishikori K.,Cilic M.,3-6 3-6 3-6,Nishikori K.,Other
+2015,Australian Open,Hard,Novak Djokovic,Djokovic N.,Murray A.,7-6 6-7 6-3 6-0,Andy Murray,Big Three
+2015,French Open,Clay,Stan Wawrinka,Djokovic N.,Wawrinka S.,6-4 4-6 3-6 4-6,Novak Djokovic,Other
+2015,Wimbledon,Grass,Novak Djokovic,Djokovic N.,Federer R.,7-6 6-7 6-4 6-3,Roger Federer,Big Three
+2015,US Open,Hard,Novak Djokovic,Federer R.,Djokovic N.,4-6 7-5 4-6 4-6,Roger Federer,Big Three
+2016,Australian Open,Hard,Novak Djokovic,Murray A.,Djokovic N.,1-6 5-7 6-7,Andy Murray,Big Three
+2016,French Open,Clay,Novak Djokovic,Murray A.,Djokovic N.,6-3 1-6 2-6 4-6,Andy Murray,Big Three
+2016,Wimbledon,Grass,Andy Murray,Raonic M.,Murray A.,4-6 6-7 6-7,Raonic M.,Other
+2016,US Open,Hard,Stan Wawrinka,Djokovic N.,Wawrinka S.,7-6 4-6 5-7 3-6,Novak Djokovic,Other
+2017,Australian Open,Hard,Roger Federer,Nadal R.,Federer R.,4-6 6-3 1-6 6-3 3-6,Rafael Nadal,Big Three
+2017,French Open,Clay,Rafael Nadal,Wawrinka S.,Nadal R.,2-6 3-6 1-6,Stan Wawrinka,Big Three
+2017,Wimbledon,Grass,Roger Federer,Federer R.,Cilic M.,6-3 6-1 6-4,Marin Cilic,Big Three
+2017,US Open,Hard,Rafael Nadal,Nadal R.,Anderson K.,6-3 6-3 6-4,Anderson K.,Big Three
+2018,Australian Open,Hard,Roger Federer,Cilic M.,Federer R.,2-6 7-6 3-6 6-3 1-6,Marin Cilic,Big Three
+2018,French Open,Clay,Rafael Nadal,Nadal R.,Thiem D.,6-4 6-3 6-2,Dominic Thiem,Big Three
+2018,Wimbledon,Grass,Novak Djokovic,Anderson K.,Djokovic N.,2-6 2-6 6-7,Anderson K.,Big Three
+2018,US Open,Hard,Novak Djokovic,Djokovic N.,Del Potro J.M.,6-3 7-6 6-3,Del Potro J.M.,Big Three
+2019,Australian Open,Hard,Novak Djokovic,Djokovic N.,Nadal R.,6-3 6-2 6-3,Rafael Nadal,Big Three
+2019,French Open,Clay,Rafael Nadal,Nadal R.,Thiem D.,6-3 5-7 6-1 6-1,Dominic Thiem,Big Three
+2019,Wimbledon,Grass,Novak Djokovic,Djokovic N.,Federer R.,7-6 1-6 7-6 4-6 13-12,Roger Federer,Big Three
+2020,Australian Open,Hard,Novak Djokovic,Thiem D.,Djokovic N.,4-6 6-4 6-2 3-6 4-6,Dominic Thiem,Big Three
+2020,US Open,Hard,Dominic Thiem,Thiem D.,Zverev A.,2-6 4-6 6-4 6-3 7-6,Zverev A.,Other
+2020,French Open,Clay,Rafael Nadal,Djokovic N.,Nadal R.,0-6 2-6 5-7,Novak Djokovic,Big Three
+2021,Australian Open,Hard,Novak Djokovic,Medvedev D.,Djokovic N.,5-7 2-6 2-6,Daniil Medvedev,Big Three
+2021,French Open,Clay,Novak Djokovic,Djokovic N.,Tsitsipas S.,6-7 2-6 6-3 6-2 6-4,Tsitsipas S.,Big Three
+2021,Wimbledon,Grass,Novak Djokovic,Djokovic N.,Berrettini M.,6-7 6-4 6-4 6-3,Berrettini M.,Big Three
+2021,US Open,Hard,Daniil Medvedev,Medvedev D.,Djokovic N.,6-4 6-4 6-4,Novak Djokovic,Other
+2022,Australian Open,Hard,Rafael Nadal,Medvedev D.,Nadal R.,6-2 7-6 4-6 4-6 5-7,Daniil Medvedev,Big Three
+2022,French Open,Clay,Rafael Nadal,Nadal R.,Ruud C.,6-3 6-3 6-0,Ruud C.,Big Three
+2022,Wimbledon,Grass,Novak Djokovic,Djokovic N.,Kyrgios N.,4-6 6-3 6-4 7-6,Kyrgios N.,Big Three
+2022,US Open,Hard,Carlos Alcaraz,Ruud C.,Alcaraz C.,4-6 6-2 6-7 3-6,Ruud C.,New Generation
+2023,Australian Open,Hard,Novak Djokovic,Tsitsipas S.,Djokovic N.,3-6 6-7 6-7,Tsitsipas S.,Big Three
+2023,French Open,Clay,Novak Djokovic,Djokovic N.,Ruud C.,7-6 6-3 7-5,Ruud C.,Big Three
+2023,Wimbledon,Grass,Carlos Alcaraz,Djokovic N.,Alcaraz C.,6-1 6-7 1-6 6-3 4-6,Novak Djokovic,New Generation
+2023,US Open,Hard,Novak Djokovic,Djokovic N.,Medvedev D.,6-3 7-6 6-3,Daniil Medvedev,Big Three
+2024,Australian Open,Hard,Jannik Sinner,Medvedev D.,Sinner J.,6-3 6-3 4-6 4-6 3-6,Daniil Medvedev,New Generation
+2024,French Open,Clay,Carlos Alcaraz,Zverev A.,Alcaraz C.,3-6 6-2 7-5 1-6 2-6,Zverev A.,New Generation
+2024,Wimbledon,Grass,Carlos Alcaraz,Djokovic N.,Alcaraz C.,2-6 2-6 6-7,Novak Djokovic,New Generation
+2024,US Open,Hard,Jannik Sinner,Fritz T.,Sinner J.,3-6 4-6 5-7,Fritz T.,New Generation
+2025,Australian Open,Hard,Jannik Sinner,Sinner J.,Zverev A.,6-3 7-6 6-3,Zverev A.,New Generation
+2025,French Open,Clay,Carlos Alcaraz,Sinner J.,Alcaraz C.,6-4 7-6 4-6 6-7 6-7,Jannik Sinner,New Generation
+2025,Wimbledon,Grass,Jannik Sinner,Sinner J.,Alcaraz C.,4-6 6-4 6-4 6-4,Carlos Alcaraz,New Generation
+2025,US Open,Hard,Carlos Alcaraz,Sinner J.,Alcaraz C.,2-6 6-3 1-6 4-6,Jannik Sinner,New Generation

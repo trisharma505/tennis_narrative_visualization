@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>From Dominance to a New Era</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>The Evolution of Men's Grand Slam Tennis (2003–2025)</h1>
+            <h2>From the Rivalry to the Big 3 to a New Era</h2>
+        </header>
+        <section id="scene-info">
+            <h3 id="scene-title"> Scene 1: The Federer and Nadal Rivalry</h3>
+            <div id="scene-stat">
+                <strong id="scene-stat-main">25 of 32 Grand Slam titles Won</strong><br>
+                <span id="scene-stat-detail">(78%) were won by Federer or Nadal.</span>
+            </div>
+            <p id="scene-description">
+                Beginning in 2003, Roger Federer started one of the greatest
+                periods of dominance in tennis history.
+            </p>
+        </section>
+        <section id="chart-area">
+            <div id="chart-heading">
+            <h3>Grand Slam Champions Timeline</h3>
+            <p>Each circle represents the winner of the Grand Slam tournament for the specified year.</p>
+            </div>
+        </section>
+        <section id="legend">
+        </section>
+        <div id="tooltip"></div>
+        <nav>
+            <button id="previous-btn">
+                ← Previous
+            </button>
+            <span id="scene-counter">
+                Scene 1 of 3
+            </span>
+            <button id="next-btn">
+                Next →
+            </button>
+        </nav>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
